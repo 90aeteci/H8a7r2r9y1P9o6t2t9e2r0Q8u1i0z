@@ -1,6 +1,6 @@
 {
-  "version": 30030000,
-  "version_name": "3.3.0",
-  "change_log": "VERSION 3.3.0\n- Fixed crashes when claimed free Galleons\n\nVERSION 3.2.0\n- Saved your game progress on Google Play service to play anywhere!\n- Fixed crash bugs",
-  "is_critical": false
+  "version": 40000000,
+  "version_name": "4.0.0",
+  "change_log": "VERSION 4.0.0\n- Changed the way to input answer: arranging letters instead of typing! Yahoo!\n- Fixed minor issues",
+  "is_critical": true
 }

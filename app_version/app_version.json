@@ -1,6 +1,6 @@
 {
-  "version": 40000000,
-  "version_name": "4.0.0",
-  "change_log": "VERSION 4.0.0\n- Changed the way to input answer: arranging letters instead of typing! Yahoo!\n- Fixed minor issues",
+  "version": 40000100,
+  "version_name": "4.0.1",
+  "change_log": "VERSION 4.0.1\n- Fixed minor bugs\n\nVERSION 4.0.0\n- Changed the way to input answer: arranging letters instead of typing! Yahoo!\n- Fixed minor issues",
   "is_critical": true
 }

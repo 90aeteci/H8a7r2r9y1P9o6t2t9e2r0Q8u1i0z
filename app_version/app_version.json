@@ -1,6 +1,6 @@
 {
-  "version": 40000200,
-  "version_name": "4.0.2",
-  "change_log": "VERSION 4.0.1\n- Fixed bug not displaying letters for selection\n- Fixed crashes on saving game state\n- Recommend new games\n\nVERSION 4.0.1\n- Fixed minor bugs\n\nVERSION 4.0.0\n- Changed the way to input answer: arranging letters instead of typing! Yahoo!\n- Fixed minor issues",
+  "version": 40030000,
+  "version_name": "4.3.0",
+  "change_log": "VERSION 4.3.0\n- Improved user experiences\n- Fixed minor issues about Google Play Game\n- Change Challenge game balance a little bit\n\nVERSION 4.0.1\n- Fixed bug not displaying letters for selection\n- Fixed crashes on saving game state\n- Recommend new games\n\nVERSION 4.0.1\n- Fixed minor bugs\n\nVERSION 4.0.0\n- Changed the way to input answer: arranging letters instead of typing! Yahoo!\n- Fixed minor issues",
   "is_critical": true
 }

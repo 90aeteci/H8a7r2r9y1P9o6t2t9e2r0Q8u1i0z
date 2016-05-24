@@ -2,5 +2,5 @@
   "version": 40040000,
   "version_name": "4.4.0",
   "change_log": "VERSION 4.4.0\n\n- Fixed bug cannot fill first cell after remove it\n- Fixed bug does not display enough letters to fill up the empty cells\n- Fixed bug background music still playing after exit the app\n- Integrate Firebase services (crash report, analytics, cloud messages)",
-  "is_critical": false
+  "is_critical": true
 }
